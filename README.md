@@ -22,3 +22,4 @@ A minimalist, character-level Bigram Language Model (LM) built from scratch usin
 
 ## planning Before
 ![planning Before](planningBefore.jpg)
+![planning Before](planningBefore2.jpg)
